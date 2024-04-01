@@ -29,7 +29,7 @@ The dataset was taken from Target India's website - https://india.target.com/wor
 * A function is defined to get top-N collaborative recommendations for a given product, based on similarity of rating vectors.
 
 **Next phase (will update soon):**
-* Genearting product descriptions based on product features. Planning to use LLM models like GPT-4, Gemini or Llama2.
+* Creating a UI and generating product descriptions based on product features. Planning to use LLM models like GPT-4, Gemini or Llama2.
 
 
 # Lessons 📝
