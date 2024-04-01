@@ -13,6 +13,7 @@ The dataset was taken from Target India's website - https://india.target.com/wor
 
 **2. Preprocess Textual Data:**
 * Convert text data to lowercase
+* Remove punctuation and duplicates from product names
 * Extract product and source entities from text using regular expressions
 * Calculate sentiment scores for reviews and titles using VADER
 
@@ -26,6 +27,10 @@ The dataset was taken from Target India's website - https://india.target.com/wor
 * A rating matrix is created by grouping the data by product names and applying a list of ratings.
 * Cosine similarity between product rating vectors is calculated.
 * A function is defined to get top-N collaborative recommendations for a given product, based on similarity of rating vectors.
+
+**Next phase (will update soon):**
+* Genearting product descriptions based on product features. Planning to use LLM models like GPT-4, Gemini or Llama2.
+
 
 # Lessons 📝
 **Importance of Data Preprocessing:**
