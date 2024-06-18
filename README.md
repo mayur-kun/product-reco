@@ -49,7 +49,7 @@ solution_3.ipynb - Focuses on understanding the distribution and popularity of t
 * Creating a UI and generating product descriptions based on product features. Planning to use LLM models like GPT-4, Gemini or Llama2.
 
 
-# Lessons 📝
+<!-- # Lessons 📝
 **Importance of Data Preprocessing:**
 
 The code highlights the importance of thorough data preprocessing, including handling missing values, converting data types, and extracting relevant features from textual data.
@@ -64,4 +64,4 @@ These features can significantly improve the performance of recommendation syste
 **Modularity and Reusability:**
 
 The code is structured into separate functions for content-based filtering, collaborative filtering, and hybrid recommendations.
-This modular approach promotes code reusability and maintainability, making it easier to extend or modify the solution as needed.
+This modular approach promotes code reusability and maintainability, making it easier to extend or modify the solution as needed. -->
