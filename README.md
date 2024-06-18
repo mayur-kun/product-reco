@@ -7,7 +7,9 @@ The dataset was taken from Target India's website - https://india.target.com/wor
 # Here's an overview 🌟
 
 There are 2 code files - 
+
 solution.ipynb - Focuses on recommending products based on hybrid filtering methods.
+
 solution_3.ipynb - Focuses on understanding the distribution and popularity of the products.
 
 **1. Data Import and Exploratory Data Analysis (EDA):**
@@ -43,7 +45,7 @@ solution_3.ipynb - Focuses on understanding the distribution and popularity of t
     1. Address Class Imbalance: As previously suggested, use techniques like SMOTE to balance the classes.
     2. Feature Engineering: Ensure the features are robust and meaningful.
     3. Model Tuning: Experiment with different models and hyperparameters to improve performance.
-    
+
 * Creating a UI and generating product descriptions based on product features. Planning to use LLM models like GPT-4, Gemini or Llama2.
 
 
